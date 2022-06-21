@@ -1,5 +1,5 @@
 colorama==0.4.1
-numpy==1.16.1
+numpy==1.22.0
 pyalsaaudio==0.8.4
 pyfiglet==0.8.post1
 reedsolo==0.3
